@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+data|stem|ae7ef92fc5e42cae|94eb0cfc3ed239db|cfcaebb9b7cad818|1588979285||t19042.3260917878s|e239592f67638efe|1073|rds|vector|||0.329||
+summ|function|725b50cbf04a3ed2||||||||||||||
+summary|stem|3114809952190715|33cc090a984c551b|96000effd1488587|760118442||t19042.334499997s|1c5dc17b9b1a7ca0|549|rds|vector|||0.385||
